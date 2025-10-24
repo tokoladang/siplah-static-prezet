@@ -35,7 +35,6 @@ Aturan pengguna ini merupakan bentuk kesepakatan yang merupakan perjanjian mengi
 1. Pengguna menyatakan bahwa dirinya merupakan subjek hukum yang cakap dan berwenang untuk mengikatkan diri dalam Perjanjian ini.
 
 2. Dalam mengakses dan menggunakan SIPLah Toko Ladang, termasuk seluruh fitur dan layanan yang tersedia, Pengguna dilarang untuk melakukan hal-hal berikut:
-
    - Melanggar ketentuan hukum yang berlaku, termasuk namun tidak terbatas pada peraturan perlindungan konsumen, persaingan usaha, anti-diskriminasi, dan larangan iklan palsu; serta melanggar hak-hak pihak lain, baik hak kekayaan intelektual, hak asasi, maupun hak lainnya, serta ketentuan yang tercantum dalam Perjanjian ini.
    - Menyampaikan informasi atau konten yang tidak benar, tidak akurat, menyesatkan, bersifat fitnah, asusila, mengandung unsur pornografi, diskriminatif, atau rasis; menyebarkan spam, pesan berantai, atau pesan elektronik dalam jumlah besar; serta menyebarkan virus atau teknologi lain yang dapat merusak dan/atau merugikan SIPLah Toko Ladang, afiliasinya, maupun Pengguna lainnya.
    - Menambahkan, mengubah, atau memindahkan fitur pada SIPLah Toko Ladang tanpa sepengetahuan dan persetujuan dari SIPLah Toko Ladang; menyimpan, meniru, memodifikasi, atau menyebarkan konten dan fitur SIPLah Toko Ladang, termasuk layanan, konten, hak cipta, dan kekayaan intelektual yang terdapat di dalamnya; serta mengakses atau mengumpulkan informasi dari Pengguna lain, termasuk alamat email, tanpa izin dari pihak yang bersangkutan.
@@ -152,7 +151,7 @@ Aturan pengguna ini merupakan bentuk kesepakatan yang merupakan perjanjian mengi
 
 4. Untuk Barang dan/atau Jasa dengan nilai harga di atas Rp50.000.000,- (Lima Puluh Juta Rupiah), akan dilakukan verifikasi tambahan untuk memastikan kewajaran harga sesuai batas normal yang ditetapkan.
 
-## Layanan VIRTUAL AKUN
+## LAYANAN VIRTUAL AKUN
 
 1. Seluruh layanan Virtual Account (VA) dikenakan biaya layanan sebesar Rp5.000,- (Lima Ribu Rupiah) yang dibebankan kepada Penyedia (merchant).
 
@@ -161,3 +160,10 @@ Aturan pengguna ini merupakan bentuk kesepakatan yang merupakan perjanjian mengi
 ## PEMBAHARUAN
 
 SIPLah Toko Ladang sewaktu-waktu dapat melakukan perubahan ketentuan dalam Syarat & Ketentuan ini. SIPLah Toko Ladang menyarankan agar pengguna secara berkala melihat Syarat & Ketentuan ini. Dengan tetap mengakses SIPLah Toko Ladang, Maka Pengguna di anggap telah menyetujui perubahan-perubahan dalam kebijakan ini.
+
+## HUBUNGI KAMI
+
+- **Group Telegram** : https://t.me/siplahtokoladang
+- **CS Telegram** : https://t.me/cs_tokla (direkomendasikan)
+- **Email**: cs@tokoladang.co.id
+- **Alamat**: Jl, Kutisari XI No. 6, Surabaya.

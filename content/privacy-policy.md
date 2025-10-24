@@ -1,16 +1,14 @@
 ---
-title: Kebijakan Privasi
+title: Kebijakan Privasi Toko Ladang
 excerpt: Pelajari tentang Kebijakan Privasi SIPLah Toko Ladang.
 date: 2025-10-24
 category: Regukasi & Hukum
 image: /prezet/images/kebijakan-privasi.png
 ---
 
-# Kebijakan Privasi Toko Ladang
-
 ## 1. Pendahuluan
 
-Kami, PT Ladang Karya Husada ("Kami"), pengelola platform **Toko Ladang**, berkomitmen untuk melindungi dan menghormati privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi data pribadi Anda saat Anda menggunakan aplikasi **Toko Ladang**, sesuai dengan **Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi** di Indonesia.
+PT Ladang Karya Husada ("Kami"), pengelola platform **Toko Ladang**, berkomitmen untuk melindungi dan menghormati privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi data pribadi Anda saat Anda menggunakan aplikasi **Toko Ladang**, sesuai dengan **Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi** di Indonesia.
 
 Dengan mengakses dan menggunakan **Toko Ladang**, Anda menyetujui kebijakan privasi ini dan pengumpulan serta penggunaan data pribadi Anda sebagaimana dijelaskan di bawah ini.
 
@@ -71,6 +69,7 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap perubah
 
 Jika Anda memiliki pertanyaan atau kekhawatiran terkait kebijakan privasi ini atau penggunaan data pribadi Anda, Anda dapat menghubungi kami melalui:
 
-- **Email**: [cs@tokoladang.co.id]
-- **Telepon**: [nomor telepon]
-- **Alamat**: Jl, Kutisari
+- **Group Telegram** : https://t.me/siplahtokoladang
+- **CS Telegram** : https://t.me/cs_tokla (direkomendasikan)
+- **Email**: cs@tokoladang.co.id
+- **Alamat**: Jl, Kutisari XI No. 6, Surabaya.

@@ -25,16 +25,16 @@ Layanan SIPLah tersedia selama hari kerja Senin s.d. Sabtu dan selama jam kerja 
 Ekosistem Bisnis dalam SIPLah melibatkan peran dan institusi yaitu :
 
 1. Pemilik SIPLah
-    - Unit Kerja Pengadaan Barang/Jasa (UKPBJ) Kementerian Pendidikan dan Kebudayaan.
+   - Unit Kerja Pengadaan Barang/Jasa (UKPBJ) Kementerian Pendidikan dan Kebudayaan.
 
 2. Mitra SIPLah :
-    - Mitra Sistem Pasar Daring dalam hal ini adalah PT. Ladang Karya Husada
-    - Mitra Sistem Pembayaran
+   - Mitra Sistem Pasar Daring dalam hal ini adalah PT. Ladang Karya Husada
+   - Mitra Sistem Pembayaran
 
 3. Pengguna SIPLah :
-    - Pelaku Usaha, individu atau badan hukum, sebagai Penyedia Barang dan Jasa Sekolah.
-    - Sekolah, yang diwakili Kepala Sekolah dan/atau Bendahara BOS, sebagai Pembeli Barang dan Jasa Sekolah.
-    - Direktorat Teknis Kementerian Pendidikan dan Kebudayaan sebagai Pengawas PBJ Sekolah.
+   - Pelaku Usaha, individu atau badan hukum, sebagai Penyedia Barang dan Jasa Sekolah.
+   - Sekolah, yang diwakili Kepala Sekolah dan/atau Bendahara BOS, sebagai Pembeli Barang dan Jasa Sekolah.
+   - Direktorat Teknis Kementerian Pendidikan dan Kebudayaan sebagai Pengawas PBJ Sekolah.
 
 ## SKEMA BISNIS
 
@@ -47,3 +47,10 @@ Skema Bisnis dalam SIPLah harus memenuhi ketentuan sebagai berikut :
 5. Kementerian Pendidikan dan Kebudayaan tidak menerapkan skema insentif keuangan dalam bentuk apapun dengan Mitra Sistem Pasar Daring dan Pengguna SIPLah.
 6. Mitra Sistem Pasar Daring tidak diperkenakan melakukan pengenaan pungutan biaya dan/atau komisi dalam skema apapun kepada Pengguna SIPLah.
 7. Mitra Sistem Pasar Daring diperkenankan memperoleh manfaat baik finansial maupun non finansial dengan skema yang tidak membebani Pengguna dan Pemilik SIPLah.
+
+## HUBUNGI KAMI
+
+- **Group Telegram** : https://t.me/siplahtokoladang
+- **CS Telegram** : https://t.me/cs_tokla (direkomendasikan)
+- **Email**: cs@tokoladang.co.id
+- **Alamat**: Jl, Kutisari XI No. 6, Surabaya.
